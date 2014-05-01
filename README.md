@@ -1,3 +1,3 @@
 todos
 =====
-First to do for BK001
+Collection of to-dos for BK001
